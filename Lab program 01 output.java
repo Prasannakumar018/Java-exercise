@@ -1,13 +1,13 @@
 
-	 Enter consumer number 2000
+	 Enter consumer number:2000
 
-	 Enter Type of connection (D for Domestic or C for Commercial) D
+	 Enter Type of connection (D for Domestic or C for Commercial):D
 
-	 Enter consumer name kumar
+	 Enter consumer name:kumar
 
-	 Enter previous month reading 200
+	 Enter previous month reading : 200
 
-	 Enter current month reading 250
+	 Enter current month reading:250
 
 	 Consumer number = 2000
 
