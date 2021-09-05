@@ -18,15 +18,15 @@ class Customerdata
         double current,previous,tbill,units;
         void getdata()
         {
-              System.out.print ("\n\t Enter consumer number ");
+              System.out.print ("\n\t Enter consumer number:");
               bn = in.nextInt();
-              System.out.print ("\n\t Enter Type of connection (D for Domestic or C for Commercial) ");
+              System.out.print ("\n\t Enter Type of connection (D for Domestic or C for Commercial): ");
               type = ins.nextLine();
-              System.out.print ("\n\t Enter consumer name ");
+              System.out.print ("\n\t Enter consumer name: ");
               cname = ins.nextLine();
-              System.out.print ("\n\t Enter previous month reading ");
+              System.out.print ("\n\t Enter previous month reading:");
               previous= in.nextDouble();
-              System.out.print ("\n\t Enter current month reading ");
+              System.out.print ("\n\t Enter current month reading: ");
               current= in.nextDouble();
      } 
      void calc()
